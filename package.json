@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@emotion/css": "^11.7.1",
-    "@openzeppelin/contracts": "^4.5.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "@walletconnect/web3-provider": "^1.7.1",
     "easymde": "^2.16.1",
     "ipfs-http-client": "^56.0.1",
